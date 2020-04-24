@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#submit {
+  margin: 20px;
+  padding: 20px;
+  color: white;
+  background: orange;
+  border: 2px solid #FF8C00;
+  border-radius: 5px;
+  box-shadow: 2px 2px 4px grey;
+}
+
+#check {
+  margin: 20px;
+  padding: 10px;
+  background: #A8FFA2;
+  border: 2px solid #089912;
+  border-radius: 100px;
+  box-shadow: 2px 2px 4px grey;
+}
+
+#cross {
+  border: 2px solid #D20000;
+  box-shadow: 2px 2px 4px grey;
+
+}
